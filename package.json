@@ -8,12 +8,14 @@
     "start": "npm run dev"
   },
   "dependencies": {
-    "mockjs": "^1.1.0",
-    "umi": "^4.1.1",
+    "@element-plus/icons-vue": "^2.3.1",
+    "element-plus": "^2.5.5",
     "vue": "^3.2.47"
   },
   "devDependencies": {
     "@umijs/preset-vue": "^4.1.1",
-    "typescript": "^5.0.3"
+    "typescript": "^5.0.3",
+    "@umijs/max": "^4.1.1",
+    "mockjs": "^1.1.0"
   }
 }
