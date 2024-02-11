@@ -18,3 +18,8 @@ Sayfalar
 * Projeler 
 * Proje detay
 * .....
+
+
+### Tasarım Freamwork
+* element-plus https://element-plus.org
+
