@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "author": "Cihan Öztürk <cihan@chy.com.tr>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "mockjs": "^1.1.0",
+    "umi": "^4.1.1",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@umijs/preset-vue": "^4.1.1",
+    "typescript": "^5.0.3"
+  }
+}
